@@ -26,5 +26,4 @@
 <property name="createdDateTime" column="CREATED_DATETIME" type="timestamp"></property>
 <property name="modifiedDateTime" column="MODIFIED_DATETIME" type="timestamp"></property>
 </class>
-
 </hibernate-mapping>
